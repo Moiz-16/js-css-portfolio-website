@@ -9,15 +9,15 @@ const Navbar = () => {
     }
   
     return (
-    <div className='bg-white text-gray-900 flex justify-between items-center max-w-[1240px] max-auto h-24 px-4 text-l'>
+    <div className='z-10 bg-white text-gray-900 flex justify-between items-center max-w-[1240px] max-auto h-24 px-4 text-l'>
 
         <h1 className='text-3xl  font-bold primary-color ml-4'>BOID</h1>
         <u1 className='hidden md:flex'>
-            <li className='p-2'>Home</li>
-            <li className='p-2'>About</li>
-            <li className='p-2'>Education</li>
-            <li className='p-2'>Projects</li>
-            <li className='p-2'>Contact</li>
+            <li className='p-4'>Home</li>
+            <li className='p-4'>About</li>
+            <li className='p-4'>Education</li>
+            <li className='p-4'>Projects</li>
+            <li className='p-4'>Contact</li>
         </u1>
 
         <div onClick={handleNav} className='block md:hidden'>
