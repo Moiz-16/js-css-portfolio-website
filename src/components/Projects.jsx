@@ -22,29 +22,29 @@ const Projects = () => {
         </div>
         <div class='grid gap-4 grid-cols-2 sm:grid-cols-3 md:gap-6 xl:gap-8'>
           
-          <a  class="group h-48 overflow-hidden rounded-lg shadow-lg md:h-80">
+          <p  class="group h-48 overflow-hidden rounded-lg shadow-lg md:h-80">
             <img src={proj1} alt="" class="h-full w-full object-cover object-center transition
                                             duration-200 group-hover:scale-110"/>
 
-          </a>
+          </p>
 
-          <a  class="group h-48 overflow-hidden rounded-lg shadow-lg md: col-span-2 md:h-80">
+          <p  class="group h-48 overflow-hidden rounded-lg shadow-lg md: col-span-2 md:h-80">
             <img src={proj1} alt="" class="h-full w-full object-cover object-center transition
                                             duration-200 group-hover:scale-110"/>
 
-          </a>
+          </p>
 
-          <a class="group h-48 overflow-hidden rounded-lg shadow-lg md: col-span-2 md:h-80">
+          <p class="group h-48 overflow-hidden rounded-lg shadow-lg md: col-span-2 md:h-80">
             <img src={proj1} alt="" class="h-full w-full object-cover object-center transition
                                             duration-200 group-hover:scale-110"/>
 
-          </a>
+          </p>
 
-          <a  class="group h-48 overflow-hidden rounded-lg shadow-lg md:h-80">
+          <p  class="group h-48 overflow-hidden rounded-lg shadow-lg md:h-80">
             <img src={proj1} alt="" class="h-full w-full object-cover object-center transition
                                             duration-200 group-hover:scale-110"/>
 
-          </a>
+          </p>
 
         </div>
 
