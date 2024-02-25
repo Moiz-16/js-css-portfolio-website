@@ -2,7 +2,7 @@ import React from 'react'
 
 const Education = () => {
   return (
-    <div className=' pt-4 bg-slate-300'>
+    <div className=' bg-[#ffffff] pt-4'>
         
         <h2 className='mb-8 m  text-4xl font-semibold text-black text-center'>My <span>Education</span></h2>
         <div class="mb-[20px]  text-black bg-gray-700/20 p-4 rounded-3xl max-w-[300px] sm:max-w-[600px] mx-auto">

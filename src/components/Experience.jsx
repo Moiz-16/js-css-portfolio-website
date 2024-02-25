@@ -4,14 +4,16 @@ import proj2 from '../assets/placeholder2.png'
 
 const Experience = () => {
   return (
-    <div class="py-6 max-w-[1200px] mx-auto">
+    <div class="bg-[#ffffff] ">
+        <div class=" py-6 max-w-[1200px] mx-auto">
       <div class='mx-auto px-10 md:px-8'> 
+      <h3 class ="text-4xl font-semibold text-center "> 
+              My <span>Experience</span>
+            </h3>
         <div class='mb-4 flex items-center justify-between'>
           <div class='flex flex-col gap-4'>
           
-            <h3 class ="text-4xl font-semibold"> 
-              My <span>Experience</span>
-            </h3>
+           
         
            
 
@@ -47,6 +49,8 @@ const Experience = () => {
       </div>
       
     </div>
+    </div>
+    
   )
 }
 

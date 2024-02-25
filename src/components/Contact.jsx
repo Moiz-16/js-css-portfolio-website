@@ -2,16 +2,16 @@ import React from 'react'
 
 const Contact = () => {
   return (
-    <div class="flex justify-center my-5 h-full sm:h-[70vh] items-center">
+    <div class=" bg-[#f6f6f6]  flex justify-center  h-full sm:h-[70vh] items-center">
         <div class="max-w-[1200px] mx-auto">
             <div>
                 <div class="grid grid-cols-1 md:grid-cols-2">
 
-                    <div class="p-6 mr-2 bg-slate-50 rounded-xl flex flex-col justify-around">
+                    <div class="p-6 mr-2 bg-white font-semibold rounded-xl flex flex-col justify-around">
                         <h1 class="text-4xl sm:text-5xl text-black">
                             Contact <span>Me</span>
                         </h1>
-                        <p class="text-normal text-lg font-medium text-gray-400 mt-2">
+                        <p class="text-normal text-lg font-medium text-black mt-2">
                             Let's connect on LinkedIn! <br/> or send me an Email
                         </p>
 
@@ -20,9 +20,7 @@ const Contact = () => {
                                 <path stroke-linecap='round' stroke-linejoin = 'round'> </path>
 
                             </svg>
-                            <div class="ml-4 text-md tracking-wide font-semibold w-40">
-                                <p>John Doe</p>
-                            </div>
+                            
                         </div>
                     </div>
 

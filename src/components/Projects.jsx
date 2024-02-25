@@ -4,12 +4,13 @@ import proj2 from '../assets/placeholder2.png'
 
 const Projects = () => {
   return (
-    <div class="py-6 max-w-[1200px] mx-auto">
+    <div class="bg-[#f6f6f6]">
+      <div class=" py-6 max-w-[1200px] mx-auto">
       <div class='mx-auto px-10 md:px-8'> 
         <div class='mb-4 flex items-center justify-between'>
           <div class='flex flex-col gap-4'>
           
-            <h3 class ="text-4xl font-semibold text-center"> 
+            <h3 class ="text-4xl font-semibold "> 
               My <span>Projects</span>
             </h3>
             <p class='text-gray-800'>
@@ -53,6 +54,9 @@ const Projects = () => {
       </div>
       
     </div>
+
+    </div>
+    
   )
 }
 
