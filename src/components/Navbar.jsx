@@ -9,7 +9,7 @@ const Navbar = () => {
     }
   
     return (
-    <div className='z-10 bg-white text-black flex justify-between items-center max-w-[1240px] mx-auto h-24 px-6 text-l'>
+    <div className='z-10 text-black flex justify-between items-center max-w-[1240px] mx-auto h-24 px-6 text-l'>
 
         <h1 className='list-nonefont text-3xl font-bold primary-color ml-4'>moizsaleem.io</h1>
         <u1 className='hidden md:flex list-none font-bold'>

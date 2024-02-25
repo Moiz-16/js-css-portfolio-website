@@ -9,11 +9,11 @@ import { TypeAnimation } from 'react-type-animation'
 const Hero = () => {
   return (
     <div>
-        <div className='sm:h-svh  h-auto mx-auto flex flex-col-reverse sm:flex-row justify-center align-center'>
+        <div className='sm:h-svh  h-screen mx-auto flex flex-col-reverse sm:flex-row justify-center align-center'>
         
         <div className='flex flex-col justify-center items-center'> 
-            <p className='md:text-7xl sm:text-4xl text-xl font-bold text-black'>Hi! I am Moiz Saleem</p>
-            <h1 className='md:text-9xl sm:text-6xl text-4xl font-bold md:py-6'>
+            <p className='md:text-7xl sm:text-4xl text-3xl font-bold text-black'>Hi! I am Moiz Saleem</p>
+            <h1 className='md:text-9xl sm:text-6xl text-5xl font-bold md:py-6'>
             <TypeAnimation
                 sequence={[
                     "Student",
@@ -31,7 +31,7 @@ const Hero = () => {
             {/* <div className='flex justify-center items-center'>
                 <p className='md:text-5xl sm:text-4xl text-xl font-bold text-gray-700'>with 5 years experience</p>
             </div> */}
-            <div className='"text-5xl flex  hjustify-start gap-16 my-7 text-purple-600'> 
+            <div className='"text-5xl flex justify-start gap-16 my-7 text-purple-600'> 
                 
                 <a href="https://github.com/">
                     <img

@@ -4,14 +4,15 @@ import proj1 from '../assets/placeholder.png'
 const Projects = () => {
   return (
     <div class="py-6 max-w-[1200px] mx-auto">
-      <div class='mx-auto px-4 md:px-8'> 
+      <div class='mx-auto px-10 md:px-8'> 
         <div class='mb-4 flex items-center justify-between'>
           <div class='flex flex-col gap-4'>
-            <h2 class ="text-2xl lg:text-3xl text-white"> 
+          
+            <h3 class ="text-4xl font-semibold"> 
               My <span>Projects</span>
-            </h2>
+            </h3>
             <p class='text-gray-800'>
-              There are my different projects
+              There are my different projects!
             </p>
 
            
