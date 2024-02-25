@@ -15,8 +15,8 @@ const Navbar = () => {
         <u1 className='hidden md:flex list-none font-bold'>
             <li className='p-4 transition duration-300 ease-in-out hover:text-blue-400'>Home</li>
             <li className='p-4 transition duration-300 ease-in-out hover:text-blue-400'>About</li>
-            <li className='p-4 transition duration-300 ease-in-out hover:text-blue-400'>Education</li>
             <li className='p-4 transition duration-300 ease-in-out hover:text-blue-400'>Projects</li>
+            <li className='p-4 transition duration-300 ease-in-out hover:text-blue-400'>Experience</li>
             <li className='p-4 transition duration-300 ease-in-out hover:text-blue-400'>Contact</li>
         </u1>
 
@@ -30,9 +30,9 @@ const Navbar = () => {
             <u1 className='p-8 text-2xl list-none font-bold '>
                 <li className='p-2 transition duration-300 ease-in-out hover:text-blue-400'>Home</li>
                 <li className='p-2 transition duration-300 ease-in-out hover:text-blue-400'>About</li>
-                <li className='p-2 transition duration-300 ease-in-out hover:text-blue-400'>Education</li>
-                <li className='p-2 '>Projects</li>
-                <li className='p-2'>Contact</li>
+                <li className='p-2 transition duration-300 ease-in-out hover:text-blue-400'>Projects</li>
+                <li className='p-2 transition duration-300 ease-in-out hover:text-blue-400'>Experience</li>
+                <li className='p-2 transition duration-300 ease-in-out hover:text-blue-400'>Contact</li>
             </u1>
 
         </div>
