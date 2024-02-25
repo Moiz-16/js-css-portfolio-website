@@ -6,10 +6,13 @@ import Education from "./components/Education";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 
+import ParticlesComponent from './components/particles'
+
 
 function App() {
   return (
     <div>
+      <ParticlesComponent id="particles"/>
       <Navbar/>
       <Hero/>
       <About/>
