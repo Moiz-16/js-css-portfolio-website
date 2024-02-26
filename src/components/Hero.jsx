@@ -19,7 +19,7 @@ const Hero = () => {
           </p>
           <h1 className="md:text-9xl sm:text-6xl text-7xl font-bold md:py-6 py-3">
             <TypeAnimation
-              cursor="false"
+              cursor="true"
               sequence={["Student", 1500, "Developer", 1500]}
               wrapper="span"
               speed={65}
