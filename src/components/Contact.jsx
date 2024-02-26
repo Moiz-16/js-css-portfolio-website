@@ -32,7 +32,7 @@ const Contact = () => {
             </div>
 
             <form
-              action=""
+              action={process.env.REACT_APP_API_KEY}
               method="post"
               class="p-6 flex flex-col justify-center max-w-[7000px]"
             >
