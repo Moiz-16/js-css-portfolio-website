@@ -17,7 +17,7 @@ const Experience = () => {
           <div class="mb-4 flex items-center justify-between">
             <div class="flex flex-col gap-4"></div>
           </div>
-          <div class=" grid gap-4 grid-cols-1 sm:grid-cols-3 md:gap-6 xl:gap-8">
+          <div class=" grid gap-4 grid-cols-1  xl:grid-cols-3 md:gap-6 xl:gap-8">
             <p class="group relative block  bg-blue-200 overflow-hidden rounded-lg shadow-lg md:h-80">
               <img
                 src={Three}
@@ -25,10 +25,10 @@ const Experience = () => {
                 class="h-full w-full object-cover object-center transition
                                             duration-200 group-hover:scale-110 group-hover:opacity-25  "
               />
-              <div class="opacity-0 hover:opacity-100 duration-300 px-8 py-8 absolute inset-0 z-10 flex flex-col justify-around text-center items-center">
+              <div class="opacity-0 hover:opacity-100 duration-300 px-8 py-8 absolute inset-0 z-10 flex flex-col justify-around content-centre text-center">
                 <div class="text-3xl font-semibold">Three UK</div>
                 <div class="font-semibold">Jul 23 - Feb 24</div>
-                <div class="   text-ellipsis">
+                <div class="   ">
                   Worked as a salesman in the telecommunications industry,
                   supporting customers through the sales journey by asking
                   targeted questions to establish needs and providing specific
@@ -46,7 +46,7 @@ const Experience = () => {
                 class="h-full w-full object-cover object-center transition
                                             duration-200 group-hover:scale-110 group-hover:opacity-25  "
               />
-              <div class="opacity-0 hover:opacity-100 duration-300 px-8 py-8 absolute inset-0 z-10 flex flex-col justify-around text-center items-center">
+              <div class="opacity-0 hover:opacity-100 duration-300 px-8 py-8 absolute inset-0 z-10 flex flex-col justify-around content-centre text-center">
                 <div class="text-3xl font-semibold">KETS Quantum Security</div>
                 <div class="font-semibold">Aug 21</div>
                 <div>
@@ -66,7 +66,7 @@ const Experience = () => {
                 class="h-full w-full object-cover object-center transition
                                             duration-200 group-hover:scale-110 group-hover:opacity-25  "
               />
-              <div class="opacity-0 hover:opacity-100 duration-300 px-8 py-8 absolute inset-0 z-10 flex flex-col justify-around text-center items-center">
+              <div class="opacity-0 hover:opacity-100 duration-300 px-8 py-8 absolute inset-0 z-10 flex flex-col justify-around content-centre text-center ">
                 <div class="text-3xl font-semibold">upReach</div>
 
                 <div>
