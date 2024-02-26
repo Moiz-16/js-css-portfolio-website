@@ -1,4 +1,3 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -17,13 +16,12 @@ span,
 }
 
 .bg-primary-color {
-  background-image: linear-gradient(to right, #1973D1, #061993);
+  background-image: linear-gradient(to right, #1973d1, #061993);
 }
 
-#particles canvas{
+#particles canvas {
   z-index: -1;
   height: 100%;
   width: 100%;
   position: absolute;
-
 }

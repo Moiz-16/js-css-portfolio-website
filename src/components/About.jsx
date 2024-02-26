@@ -3,7 +3,7 @@ import fillerImg from "../assets/codingstockpic.jpg";
 
 const About = () => {
   return (
-    <div className="py-10 h-auto bg-[#ffffff] text-black">
+    <div className="py-10 h-auto bg-[#ffffff] text-black" id="about">
       <div className="flex md:flex-row flex-col-reverse items-center md:gap-6 gap-12 px-10 max-w-6xl mx-auto">
         <div>
           <div className="w-[400px] h-full">

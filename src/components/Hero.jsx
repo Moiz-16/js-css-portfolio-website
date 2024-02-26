@@ -9,7 +9,10 @@ import { TypeAnimation } from "react-type-animation";
 const Hero = () => {
   return (
     <div>
-      <div className="sm:h-svh  h-screen mx-auto flex flex-col-reverse sm:flex-row justify-center align-center">
+      <div
+        className="sm:h-svh  h-screen mx-auto flex flex-col-reverse sm:flex-row justify-center align-center"
+        id="work"
+      >
         <div className="flex flex-col justify-center items-center">
           <p className="md:text-7xl sm:text-4xl text-4xl font-bold text-black">
             Hi! I am Moiz Saleem

@@ -6,7 +6,7 @@ import placeholder from "../assets/placeholder.png";
 
 const Projects = () => {
   return (
-    <div class="bg-[#f6f6f6]">
+    <div class="bg-[#f6f6f6]" id="projects">
       <div class=" py-6 max-w-[1200px] mx-auto">
         <div class="mx-auto px-10 md:px-8">
           <div class="mb-4 flex items-center justify-between">

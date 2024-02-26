@@ -2,7 +2,10 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div class=" bg-[#f6f6f6] flex justify-center  h-full sm:h-[60vh] items-center">
+    <div
+      class=" bg-[#f6f6f6] flex justify-center h-full sm:h-[60vh] items-center"
+      id="contact"
+    >
       <div class="max-w-[1200px] mx-auto my-4">
         <div>
           <div class="grid grid-cols-1 md:grid-cols-2">
@@ -29,7 +32,7 @@ const Contact = () => {
             </div>
 
             <form
-              action="I"
+              action=""
               method="post"
               class="p-6 flex flex-col justify-center max-w-[7000px]"
             >
