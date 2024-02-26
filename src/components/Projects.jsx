@@ -14,7 +14,7 @@ const Projects = () => {
               <h3 class="text-4xl font-semibold ">
                 My <span>Projects</span>
               </h3>
-              <p class="text-gray-800">There are my different projects!</p>
+              <p class="text-gray-800">These are my different projects!</p>
             </div>
           </div>
           <div class="grid gap-4 grid-cols-3 sm:grid-cols-3 md:gap-6 xl:gap-8">
