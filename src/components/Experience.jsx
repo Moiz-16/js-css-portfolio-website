@@ -3,8 +3,9 @@ import proj1 from "../assets/placeholder.png";
 import proj2 from "../assets/placeholder2.png";
 
 import upReach from "../assets/upReach_logo.jpg";
-import Kets from "../assets/kets_logo.jpeg";
+import Kets from "../assets/kets_logo.png";
 import Three from "../assets/three_logo.png";
+import Placeholder from "../assets/placeholder.png";
 
 const Experience = () => {
   return (

@@ -2,6 +2,8 @@ import React from "react";
 import flutter_shoe_calendar_project from "../assets/flutter_shoe_calendar_project.png";
 import he_poster from "../assets/he_project.png";
 import react_website from "../assets/portfolio_site_project.png";
+import placeholder from "../assets/placeholder.png";
+
 const Projects = () => {
   return (
     <div class="bg-[#f6f6f6]">
@@ -45,7 +47,7 @@ const Projects = () => {
 
             <p class="group  overflow-hidden rounded-lg shadow-lg md:h-80">
               <img
-                src={react_website}
+                src={placeholder}
                 alt=""
                 class="h-full w-full object-cover object-center transition
                                             duration-200 group-hover:scale-110"
