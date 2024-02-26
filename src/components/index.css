@@ -1,0 +1,29 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #f6f6f6;
+  font-weight: 400;
+  font-style: normal;
+}
+
+span,
+.primary-color {
+  background-image: linear-gradient(to right, #62cff4, #2c67f2);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.bg-primary-color {
+  background-image: linear-gradient(to right, #1973D1, #061993);
+}
+
+#particles canvas{
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+
+}
