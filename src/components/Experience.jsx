@@ -18,7 +18,7 @@ const Experience = () => {
             <div class="flex flex-col gap-4"></div>
           </div>
           <div class=" grid gap-4 grid-cols-1  xl:grid-cols-3 md:gap-6 xl:gap-8">
-            <p class="group relative block  bg-blue-200 overflow-hidden rounded-lg shadow-lg md:h-80">
+            <p class=" size-auto group relative block  bg-blue-200 overflow-hidden rounded-lg shadow-lg md:h-80">
               <img
                 src={Three}
                 alt=""

@@ -15,19 +15,19 @@ const Navbar = () => {
       </h1>
       <u1 className="hidden md:flex list-none font-bold">
         <li className="p-4 transition duration-300 ease-in-out hover:text-blue-400">
-          <a href="#home">// Home</a>
+          <a href="#home">Home</a>
         </li>
         <li className="p-4 transition duration-300 ease-in-out hover:text-blue-400">
-          <a href="#about">// About</a>
+          <a href="#about">About</a>
         </li>
         <li className="p-4 transition duration-300 ease-in-out hover:text-blue-400">
-          <a href="#projects">// Projects</a>
+          <a href="#projects">Projects</a>
         </li>
         <li className="p-4 transition duration-300 ease-in-out hover:text-blue-400">
-          <a href="#experience">// Experience</a>
+          <a href="#experience">Experience</a>
         </li>
         <li className="p-4 transition duration-300 ease-in-out hover:text-blue-400">
-          <a href="#contact">// Contact</a>
+          <a href="#contact">Contact</a>
         </li>
       </u1>
 
@@ -47,19 +47,19 @@ const Navbar = () => {
         </h1>
         <u1 className="p-8 text-2xl list-none font-bold ">
           <li className="p-2 transition duration-300 ease-in-out hover:text-blue-400">
-            <a href="#home">// Home</a>
+            <a href="#home">Home</a>
           </li>
           <li className="p-2 transition duration-300 ease-in-out hover:text-blue-400">
-            <a href="#about">// About</a>
+            <a href="#about">About</a>
           </li>
           <li className="p-2 transition duration-300 ease-in-out hover:text-blue-400">
-            <a href="#projects">// Projects</a>
+            <a href="#projects">Projects</a>
           </li>
           <li className="p-2 transition duration-300 ease-in-out hover:text-blue-400">
-            <a href="#experience">// Experience</a>
+            <a href="#experience">Experience</a>
           </li>
           <li className="p-2 transition duration-300 ease-in-out hover:text-blue-400">
-            <a href="#contact">// Contact</a>
+            <a href="#contact">Contact</a>
           </li>
         </u1>
       </div>
